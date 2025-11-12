@@ -8,7 +8,7 @@ import {MerkleAirdrop} from "src/MerkleAirdrop.sol";
 import {IERC20} from "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol";
 
 contract Deployment is Script {
-    bytes32 private s_mRoot = 0xaa5d581231e596618465a56aa0f5870ba6e20785fe436d5bfb82b08662ccc7c4;
+    bytes32 private s_mRoot = 0xaa5d581231e596618465a56aa0f5870ba6e20785fe436d5bfb82b08662ccc7c4; // remove the merkle if you are cloning the repo from github. Use you own to compile correctly
     uint256 private s_airdropAmountToTransfer = 25 ether * 4;
 
     function deploy() public returns (FPToken, MerkleAirdrop) {

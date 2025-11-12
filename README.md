@@ -185,6 +185,10 @@ Together, they form a two-step cryptographic verification system:
 
 ---
 
+## 🧾⚙️ Notice 
+- Removed the target folder for security reasons. One can create and in GenerateInput.s.sol use the address
+you would like to keep for the airdrop and then use the MakeMerkle.s.sol to generate the root and pass the root in the Deploy.s.sol as constructor arg for the MerkleAirdrop contract. Best of luck!
+
 # 🧾 License
 
 This project is licensed under the MIT License.  
