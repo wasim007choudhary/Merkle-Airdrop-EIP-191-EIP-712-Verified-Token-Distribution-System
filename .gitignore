@@ -1,0 +1,24 @@
+# Foundry build & cache
+out/
+cache/
+.cache/
+broadcast/
+zkout/
+
+# Node-related (if applicable)
+node_modules/
+
+# Environment and secrets
+.env
+*.key
+*.pem
+
+# OS-specific
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Murky & Forge script outputs
+script/target/
