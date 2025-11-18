@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🪂 Merkle Airdrop — EIP-712 Verified Token Distribution System
+# 🪂 Merkle Airdrop — EIP-191 & EIP-712 Verified Token Distribution System
 
 **A secure, Meta-Transaction-Ready ERC-20 Airdrop Protocol powered by Merkle Proofs and EIP-712 Signatures for Verified Token Distribution — with zkSync-compatible Foundry scripts.**  
 Built with **Foundry**, verified with **OpenZeppelin**, and designed for **relayer-based claiming** across EVM and **zkSync** networks.
