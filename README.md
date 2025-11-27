@@ -13,6 +13,9 @@ Built with **Foundry**, verified with **OpenZeppelin**, and designed for **relay
 [![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-SafeERC20-blue.svg)](https://openzeppelin.com/contracts/)
 [![zkSync Compatible](https://img.shields.io/badge/Compatible%20With-zkSync-purple.svg?logo=zkSync)](https://zksync.io)
 
+[![X (Twitter)](https://img.shields.io/badge/X-@i___wasim-black?logo=x)](https://x.com/i___wasim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wasim%20Choudhary-blue?logo=linkedin)](https://www.linkedin.com/in/wasim-007-choudhary/)
+
 </div>
 
 ---
